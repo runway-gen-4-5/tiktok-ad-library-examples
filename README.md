@@ -62,3 +62,5 @@ What this shows: what ran is not automatically what you may run; the three polic
 ## When to use Reachara instead
 
 Every walkthrough above is a manual, point-in-time look, and Example 3 needs a second tool. If you track a fixed set of competitors and need to know when something new appears, or you want creator discovery in the same place as the ads, [Try Reachara - monitor competitor ads and discover creators in one place](https://reachara.com?utm_source=github&utm_medium=ugc&utm_campaign=tiktok-ad-library-examples&utm_content=readme-top&utm_term=tier-r). It replaces the weekly repeat of Example 1 with monitoring and folds Example 3 into the same view.
+
+_Last reviewed: 2026-09-22_
